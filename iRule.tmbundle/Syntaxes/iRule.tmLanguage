@@ -165,7 +165,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(break|case|catch|continue|default|do|else|finally|for|goto|if|import|package|return|switch|throw|try|while)\b</string>
+			<string>\b(else|if|elseif|return)\b</string>
 			<key>name</key>
 			<string>keyword.control.irule</string>
 		</dict>
